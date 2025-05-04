@@ -1,0 +1,1 @@
+Toto je svatební web. Nahrajte obsah na GitHub Pages.
